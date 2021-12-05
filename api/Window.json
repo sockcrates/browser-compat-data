@@ -4982,7 +4982,8 @@
               "version_added": false
             },
             "samsunginternet_android": {
-              "version_added": true,
+              "version_added": "6.0",
+              "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
             "webview_android": {
@@ -5107,6 +5108,7 @@
             },
             "samsunginternet_android": {
               "version_added": "6.0",
+              "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
             "webview_android": {
@@ -5323,6 +5325,7 @@
             },
             "samsunginternet_android": {
               "version_added": "6.0",
+              "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
             "webview_android": {
@@ -10133,7 +10136,8 @@
               "version_added": false
             },
             "samsunginternet_android": {
-              "version_added": true,
+              "version_added": "6.0",
+              "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
             "webview_android": {
@@ -10259,6 +10263,7 @@
             },
             "samsunginternet_android": {
               "version_added": "6.0",
+              "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
             "webview_android": {
@@ -10477,6 +10482,7 @@
             },
             "samsunginternet_android": {
               "version_added": "6.0",
+              "version_removed": "13.0",
               "notes": "Supported on Samsung Internet for GearVR."
             },
             "webview_android": {
