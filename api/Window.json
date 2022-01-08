@@ -1651,7 +1651,7 @@
               "version_added": "18"
             },
             "opera_android": {
-              "version_added": false
+              "version_added": "18"
             },
             "safari": {
               "version_added": false
@@ -1663,7 +1663,7 @@
               "version_added": "2.0"
             },
             "webview_android": {
-              "version_added": "4.4"
+              "version_added": "≤37"
             }
           },
           "status": {
@@ -4172,7 +4172,7 @@
               "version_added": "2.0"
             },
             "webview_android": {
-              "version_added": "4.4"
+              "version_added": "≤37"
             }
           },
           "status": {
